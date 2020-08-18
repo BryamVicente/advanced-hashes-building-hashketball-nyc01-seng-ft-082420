@@ -31,8 +31,3 @@ game_hash = {
   }
 
 end
-
-
-def game_hash
-  return {}
-end
